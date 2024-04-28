@@ -351,6 +351,11 @@ function generateDropContent(options)
                         <div class='incognito-options-item' style='cursor: pointer;'>
                             More options coming soon!
                         </div>
+			<div class='incognito-options-item' style='cursor: pointer;'>
+                           <a href="https://github.com/tomer8007/whatsapp-web-incognito/tree/master" target="_blank" class='incognito-options-item' style='cursor: pointer;'>
+			    Check for updates
+			  </a>
+                        </div>
                         <button class='incognito-back-button'>&lt Back</button>
                     </div>
                 </div>
